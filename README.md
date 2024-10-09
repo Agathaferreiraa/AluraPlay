@@ -2,6 +2,13 @@
 
 Alura Play é um projeto desenvolvido como parte da minha formação em "CSS: Aprofunde em Estilos" na Alura. O objetivo é aplicar técnicas avançadas de CSS para criar uma interface moderna e estilizada, explorando layouts responsivos, animações e estilização avançada.
 
+
+![image](https://github.com/user-attachments/assets/21fd2c90-9c76-41be-8a0e-3fd3ff882448)
+
+
+
+
+
 ## Tecnologias Utilizadas
 
 - **HTML**: Para estruturar a página e os elementos.
